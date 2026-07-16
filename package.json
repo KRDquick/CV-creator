@@ -1,0 +1,17 @@
+{
+  "name": "cv-creator-website-project",
+  "version": "1.0.0",
+  "description": "CV Creator Website",
+  "main": "web.js",
+  "scripts": {
+    "start": "node web.js"
+  },
+  "author": "Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.110.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "multer": "^2.2.0"
+  }
+}
